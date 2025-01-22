@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 requests = "*"
+streamlit = "*"
+pandas = "*"
+numpy = "*"
 
 [dev-packages]
 tweepy = '*'
